@@ -1,0 +1,9 @@
+{
+  "id": "community.hellspysearch",
+  "version": "1.0.0",
+  "name": "Hellspy Search",
+  "description": "Vyhľadáva filmy na hellspy.to a umožňuje prehrávanie",
+  "resources": ["stream"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"]
+}
